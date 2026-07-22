@@ -1,0 +1,37 @@
+{
+  "generatedAt": "2026-07-22T17:03:15.563Z",
+  "passed": 6,
+  "failed": 0,
+  "results": [
+    {
+      "name": "비로그인 사용자의 Owner 문서 읽기",
+      "passed": true,
+      "detail": "정상적으로 차단됐습니다."
+    },
+    {
+      "name": "Attacker의 Owner 문서 읽기",
+      "passed": true,
+      "detail": "정상적으로 차단됐습니다."
+    },
+    {
+      "name": "Attacker의 Owner 문서 수정",
+      "passed": true,
+      "detail": "정상적으로 차단됐습니다."
+    },
+    {
+      "name": "Attacker의 Owner 문서 삭제",
+      "passed": true,
+      "detail": "정상적으로 차단됐습니다."
+    },
+    {
+      "name": "Owner의 자기 문서 읽기",
+      "passed": true,
+      "detail": "정상적으로 허용됐습니다."
+    },
+    {
+      "name": "Owner의 자기 문서 수정",
+      "passed": true,
+      "detail": "정상적으로 허용됐습니다."
+    }
+  ]
+}
